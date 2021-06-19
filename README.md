@@ -4,6 +4,4 @@ This is just a repository which i created when i'm learning basic software engin
 Login flow :
 1. Fill email and password.
 2. Data validation.
-3. Face recognition.
-4. Enter mother name.
-5. Display the home page.
+3. Display the home page.
